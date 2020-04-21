@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+html,body {
+    background-color: black !important;
+    height: 100%;
+}
+#My_name {
+    color: black;
+}
+#navlink {
+    color: white;
+}
+#container {
+    min-height: 100%;
+    width: 100%;
+    background-color: black;
+}
+#main{
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    padding-bottom: 50px;
+}
+h1 {
+    color: blue;
+}
+#Card {
+    overflow: auto;
+    margin: 5px;
+    max-width: 640px;
+     max-height: auto;
+     background-color:blue;
+     text-align: center;
+}
+#links {
+    background-color: rgb(52, 52, 53);
+    color: white;
+    max-width: 500px;
+}
+#sticky-footer {
+    max-width: 100%;
+    color: white;
+    position: sticky;
+    top: 0;
+    left: 0; 
+    bottom: 0;   
+    height:25px ;
+    background-color: rgb(52, 52, 53);
+    color: white;
+    text-align: center;
+    
+}

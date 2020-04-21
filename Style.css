@@ -1,0 +1,22 @@
+#my_body { 
+    background-color:black;   
+}
+#My_name {
+    color:black;
+}
+#navlink {
+    color: white;
+}
+
+#sticky-footer {
+    max-width: 100%;
+    color: white;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+        width: 100%;
+        background-color:gray;
+        color: white;
+        text-align: center;
+      
+}

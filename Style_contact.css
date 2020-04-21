@@ -1,0 +1,30 @@
+body {
+    background-color:gray !important;
+}
+#My_name {
+    color:black;
+}
+#navlink {
+    color: white;
+}
+#Name_input {
+    max-width: 500px;
+}
+#Email {
+    max-width: 500px;
+}
+#Message {
+    max-width: 500px;
+}
+#sticky-footer {
+    max-width: 100%;
+    color: white;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+        width: 100%;
+        background-color:gray;
+        color: white;
+        text-align: center;
+      
+}
